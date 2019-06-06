@@ -1,6 +1,6 @@
 # [Personal Page](http://zachariah.github.io/)
 
-This is my personal website, built on the theme created by [Start Bootstrap](http://startbootstrap.com/). The theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+This is my personal webpage, built on the theme created by [Start Bootstrap](http://startbootstrap.com/). The theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
 ## Preview
 
