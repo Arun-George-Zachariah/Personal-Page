@@ -1,4 +1,4 @@
-# [Personal Page](https://github.com/Arun-George-Zachariah/Personal-Page)
+# [Personal Page](https://arun-george-zachariah.github.io/Personal-Page/)
 
 This is my personal webpage, built on the theme created by [Start Bootstrap](http://startbootstrap.com/). The theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
 
